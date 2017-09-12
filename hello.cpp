@@ -6,6 +6,23 @@ using namespace std;
 int main() {
     cout << "This is my first C++ program." << endl;
 
-    cout << dataTypes();
+    cout << dataTypes() << endl;
+
+    cout << variables() << endl;
+
+    cout << localVariables() << endl;
+
+    cout << globalVariables() << endl;
+
+    cout << functionsExample() << endl;
+
+    cout << mathematicalFunction() << endl;
+
+    cout << randomNumbers() << endl;
+
+    cout << arrayPractice() << endl;
+
+   // cout << stringFunctionClass() << endl;
+    
     return 0;
 }
