@@ -1,3 +1,9 @@
+/*
+randomNumbers.cpp: Reuben Ellis
+Description: A program which shows the different data types and sizes.
+NOTE: Sizes vary for each data type based on the PC being used.
+*/
+
 #include <iostream>
 using namespace std;
 

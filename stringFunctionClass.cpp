@@ -1,3 +1,8 @@
+/*
+randomNumbers.cpp: Reuben Ellis
+Description: A program which uses the C++ standard string class for string manipulation
+*/
+
 // #include <iostream>
 // #include <string>
 

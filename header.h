@@ -1,3 +1,9 @@
+/*
+randomNumbers.cpp: Reuben Ellis
+Description: A header file which looks for a definition of function
+and then defines and calls the function if it does not exist.
+*/
+
 #ifndef DATATYPES_H
 #define DATATYPES_H
 
@@ -9,20 +15,6 @@ int dataTypes();
 #define VARIABLES_H
 
 int variables();
-
-#endif
-
-#ifndef LOCALVARIABLES_H
-#define LOCALVARIABLES_H
-
-int localVariables();
-
-#endif
-
-#ifndef GLOBALVARIABLES_H
-#define GLOBALVARIABLES_H
-
-int globalVariables();
 
 #endif
 

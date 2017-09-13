@@ -1,3 +1,8 @@
+/*
+randomNumbers.cpp: Reuben Ellis
+Description: A program which displays the functionality of array manipulation
+*/
+
 #include <iostream>
 using namespace std;
 

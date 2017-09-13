@@ -1,3 +1,9 @@
+/*
+randomNumbers.cpp: Reuben Ellis
+Description: A program which shows the different declaration
+of variables.
+*/
+
 #include <iostream>
 using namespace std;
 

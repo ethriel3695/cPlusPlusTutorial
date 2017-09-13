@@ -1,3 +1,10 @@
+/*
+https://developers.google.com/edu/c++/getting-started
+
+hello.cpp: Reuben Ellis
+Description: The main file which controls all the other functions
+*/
+
 #include <iostream>
 #include "header.h"
 using namespace std;
@@ -9,10 +16,6 @@ int main() {
     cout << dataTypes() << endl;
 
     cout << variables() << endl;
-
-    cout << localVariables() << endl;
-
-    cout << globalVariables() << endl;
 
     cout << functionsExample() << endl;
 

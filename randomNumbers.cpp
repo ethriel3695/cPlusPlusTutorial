@@ -1,3 +1,9 @@
+/*
+randomNumbers.cpp: Reuben Ellis
+Description: A program which generates actual random numbers
+by setting a seed and then generating random numbers
+*/
+
 #include <iostream>
 #include <ctime>
 #include <cstdlib>

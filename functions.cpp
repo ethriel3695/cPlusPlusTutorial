@@ -1,3 +1,8 @@
+/*
+randomNumbers.cpp: Reuben Ellis
+Description: A program which shows the use of functions and parameters.
+*/
+
 #include <iostream>
 using namespace std;
 

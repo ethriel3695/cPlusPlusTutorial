@@ -1,3 +1,8 @@
+/*
+randomNumbers.cpp: Reuben Ellis
+Description: A program which shows some of the math functions available in C++
+*/
+
 #include <iostream>
 #include <cmath>
 using namespace std;
