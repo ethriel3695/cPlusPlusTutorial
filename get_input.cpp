@@ -14,7 +14,8 @@ int main() {
         
         if (!(cin >> input_var)) {
             cout << "You entered a non-numeric. Exiting..." << endl;
-            break;
+            cin.clear();
+            cin.ignore(10000, '\n');
         }
         if (input_var != -1) {
             cout << "You entered " << input_var << endl;
