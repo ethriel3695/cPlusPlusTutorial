@@ -28,6 +28,6 @@ int main () {
             }
         }
     }
-    cout << "The total number of times " << factorial
+    cout << "The total number of times " << numberOfItems
     << " books can be arranged left to right is: " << factorial << endl;
 }
