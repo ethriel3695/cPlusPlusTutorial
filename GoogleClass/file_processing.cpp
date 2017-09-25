@@ -1,6 +1,8 @@
 /*
 file_processing.cpp: Reuben Ellis
 Description: A program to illustrate file processing
+
+FIX THIS FILE ITS NOT WORKING SINCE MOVING INTO A FOLDER
 */
 
 #include <fstream>
@@ -13,7 +15,7 @@ void openFileAndRead () {
     int fileAge;
 
     //Open an ifstream called ListPeople, open the file
-    ifstream ListPeople("fileProcessing.txt");
+    ifstream ListPeople("GoogleClass\fileProcessing.txt");
 
     while (1) {
         ListPeople >> fileFirstName;
